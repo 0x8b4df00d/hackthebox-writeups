@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+excerpt_separator: "<!--more-->"
+title: 0x8b4df00d hackthebox.eu writeups
+description: writeups of retired boxes on hackthebox.eu
+url: https://www.0x8b4df00d.xyz
