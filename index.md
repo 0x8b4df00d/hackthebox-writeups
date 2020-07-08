@@ -4,8 +4,9 @@ title: 0x8b4df00d
 
 ## 0x8b4df00d @ hackthebox.eu
 
-todo: introduction
+We are `0x8b4df00d`. A team of penetration testers, blue teamers and infosec enthusiast trying our best at hackthebox.eu (and other CTF competitions). 
 
+ 
 ## writeups
 
 <ul>
